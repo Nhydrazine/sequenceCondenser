@@ -1,4 +1,4 @@
-# sequenceCondenser Project
+# sequenceCondenser
 
 **Author** Nicholas E. Webb
 
